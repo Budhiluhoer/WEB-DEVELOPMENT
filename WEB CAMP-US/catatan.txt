@@ -1,0 +1,10 @@
+setiap divisi memiliki identitas tersendiri
+
+divisi container
+divisi navigasi
+divisi header
+divisi menu-content
+	divisi menu
+	divisi content
+divisi about
+divisi footer

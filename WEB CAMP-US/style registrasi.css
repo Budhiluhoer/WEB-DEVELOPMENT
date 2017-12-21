@@ -1,0 +1,91 @@
+* {	
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	color: gray;
+}	
+
+.container {
+	width: auto;
+	height: 150px;
+	margin: 20px;
+	margin-left: 0px;
+	padding-top: 5px;
+}
+
+#login {
+	padding-top:10px;
+	padding-right: 20px;
+	display: inline-block;
+}
+
+#username, #password{
+	margin-right:20px;
+}
+
+.navbar {
+	width: 0px auto;
+	height:60px;
+	margin:0px auto;
+	background-color: #000;
+	padding-top: 5px;
+}
+
+#header-content {
+	margin-top: 10px;
+}
+
+#campus {
+	color: #fff;
+}
+
+.navbar ul li {
+	text-decoration: none;
+	color: white;
+	padding-top: -8px;
+}
+
+#content {
+	float: center;
+	width: 0px auto;
+	height: 400px;
+	padding-top: 60px;
+	margin-bottom: -10px;
+	margin-left: -20px;
+	background-color: #008FD7;
+}
+
+#regis h1 {
+	color: #fff;
+}
+
+#regis {
+	padding-top:40px;
+}
+
+#tentang{
+	margin-top: -35px;
+	width: 0px auto;
+	margin-left: -20px;
+	background-color: #333;
+	color: #fff;
+	padding-top: 8px;
+}
+
+#copy {
+	background-color: #000;
+	color: gray;
+	width: 0px auto;
+	height: 50px;
+	margin-left: -20px;
+	padding-top: 15px;
+	margin-top: -40px;
+}
+
+.floating {
+	clear:both;
+	height:0px;
+	line-height:0px;
+}
