@@ -1,0 +1,57 @@
+/*NAVIGASI*/
+		* {
+			margin: 0;
+			font-family: sans-serif;
+		}
+		#container {
+			display:flex;
+			justify-content: space-around;
+			background-color: #3a5795;
+			height: 80px;
+			padding-top: 17px;
+		}
+		#login {
+			padding-top: 10px;
+		}
+		#judul{
+			font-size: 40px;
+			color: white;
+		}
+		input {
+			border-radius: 5px;
+			padding: 5px;
+		}
+		button {
+			border-radius: 5px;
+			padding: 5px;
+		}
+/*NAVIGASI*/
+
+/*BODY*/
+		#body{
+			display:flex;
+			justify-content: space;
+			background-color: #DDDADA;
+			height: 600px;
+			padding: 30px;
+		}
+		#banner	{
+			margin-right: auto;
+		}
+		#form {
+			margin-left: auto;
+			padding: 20px;
+		}
+		#akun {
+			background-color:#438B56;
+			color: #fff;
+			padding: 10px;
+			width: 120px;
+		}
+		#email,#pw {
+			width: 352px;
+		}
+		footer {
+			height: 20px;
+			text-align: center;
+		}
